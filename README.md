@@ -1,7 +1,7 @@
 #multivine
+Python script that uses the multiprocessing module to video parse from vine. 
 ## usage
 ```python
-Python script that uses the multiprocessing module to video parse from vine. 
 from multivine import vine
 
 vine_url = ['https://vine.co/v/h7O9FnKl5rI',
